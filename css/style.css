@@ -1,5 +1,9 @@
 /* based on https://github.com/AUTOMATIC1111/stable-diffusion-webui/blob/v1.6.0/style.css */
 
+body {
+  background: linear-gradient(135deg, rgba(135, 206, 235, 0.8), rgba(176, 224, 230, 0.8));
+}
+
 .loader-container {
   display: flex; /* Use flex to align items horizontally */
   align-items: center; /* Center items vertically within the container */
